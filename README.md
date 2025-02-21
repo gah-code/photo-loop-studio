@@ -40,3 +40,5 @@ To support these features, we need a **custom API** that will:
 All of these states will be stored in Supabase as database tables and managed on the front end using **React Query**.
 
 ---
+
+TODO Next Steps : Set up Storage Buckets, Fetching Location Data via React Query
